@@ -1,0 +1,22 @@
+[
+  {
+    "sku": "LIB-001",
+    "nombre": "ACUARELAS",
+    "categoria": "Escolares y Papelería",
+    "costo": 668.0,
+    "precioUnitario": 534.4,
+    "precio": 1202.4,
+    "stock": 10,
+    "minimo": 5
+  },
+  {
+    "sku": "LIB-002",
+    "nombre": "BIBLIORATO",
+    "categoria": "Regalería y Artística",
+    "costo": 5585.0,
+    "precioUnitario": 3909.5,
+    "precio": 9494.5,
+    "stock": 10,
+    "minimo": 5
+  }
+]
