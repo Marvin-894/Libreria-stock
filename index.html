@@ -40,7 +40,7 @@
 
   <div class="container">
     <header>
-      <h1>Control de Stock</h1>
+      <h1>Control de Stock - JIM</h1>
       <span id="sync-status">⌛ Cargando...</span>
     </header>
 
@@ -53,12 +53,6 @@
   </div>
 
   <script>
-    const CONFIG = {
-      OWNER: 'Marvin-894',
-      REPO: 'control-stock',
-      FILE: 'stock.json'
-    };
-
     let productos = [];
     let soloFaltantes = false;
 
@@ -75,24 +69,14 @@
     async function cargarStock() {
       setStatus('⌛ Cargando...', 'saving');
       
-      const rawUrl = `https://raw.githubusercontent.com/${CONFIG.OWNER}/${CONFIG.REPO}/main/${CONFIG.FILE}?t=${Date.now()}`;
-      const apiUrl = `https://api.github.com/repos/${CONFIG.OWNER}/${CONFIG.REPO}/contents/${CONFIG.FILE}`;
+      // Carga directa mediante ruta relativa con prevención de caché
+      const localUrl = `./stock.json?t=${Date.now()}`;
       
       try {
-        let res = await fetch(rawUrl);
-        if (!res.ok) {
-          res = await fetch(apiUrl);
-        }
-        if (!res.ok) throw new Error('No se pudo acceder al archivo público');
+        const res = await fetch(localUrl);
+        if (!res.ok) throw new Error('No se encontró el archivo stock.json');
         
-        const contentType = res.headers.get('content-type');
-        if (contentType && contentType.includes('application/json')) {
-          productos = await res.json();
-        } else {
-          const data = await res.json();
-          const decodedContent = decodeURIComponent(escape(atob(data.content)));
-          productos = JSON.parse(decodedContent);
-        }
+        productos = await res.json();
         
         setStatus('● En línea', 'ok');
         render();
@@ -198,7 +182,6 @@
 
     if (searchInput) searchInput.addEventListener('input', render);
     
-    // Inicia la carga al renderizar la página
     document.addEventListener('DOMContentLoaded', cargarStock);
   </script>
 </body>
