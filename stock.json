@@ -4,8 +4,7 @@
     "nombre": "ACUARELAS",
     "categoria": "Escolares y Librería",
     "costo": 668.0,
-    "precioUnitario": 534.4,
-    "precio": 1202.4,
+    "precioUnitario": 1135.6,
     "stock": 10,
     "minimo": 5
   },
@@ -14,8 +13,7 @@
     "nombre": "BIBLIORATO",
     "categoria": "Escolares y Librería",
     "costo": 5585.0,
-    "precioUnitario": 3909.5,
-    "precio": 9494.5,
+    "precioUnitario": 9494.5,
     "stock": 10,
     "minimo": 5
   },
@@ -24,8 +22,7 @@
     "nombre": "BOLIGOMA SKYCOLOR 30ML",
     "categoria": "Escolares y Librería",
     "costo": 350.0,
-    "precioUnitario": 245.0,
-    "precio": 595.0,
+    "precioUnitario": 595.0,
     "stock": 10,
     "minimo": 5
   },
@@ -34,8 +31,7 @@
     "nombre": "BOLIGOMA SKYCOLOR 50ML",
     "categoria": "Escolares y Librería",
     "costo": 900.0,
-    "precioUnitario": 630.0,
-    "precio": 1530.0,
+    "precioUnitario": 1530.0,
     "stock": 10,
     "minimo": 5
   },
@@ -44,8 +40,7 @@
     "nombre": "BRILLANTINA",
     "categoria": "Escolares y Librería",
     "costo": 245.0,
-    "precioUnitario": 196.0,
-    "precio": 441.0,
+    "precioUnitario": 416.5,
     "stock": 10,
     "minimo": 5
   },
@@ -54,8 +49,7 @@
     "nombre": "BRILLANTINA TIRA",
     "categoria": "Escolares y Librería",
     "costo": 1224.0,
-    "precioUnitario": 979.2,
-    "precio": 2203.2,
+    "precioUnitario": 2080.8,
     "stock": 10,
     "minimo": 5
   },
@@ -63,9 +57,8 @@
     "sku": "JIM-007",
     "nombre": "CARTUCHERAS",
     "categoria": "Escolares y Librería",
-    "costo": 0.0,
-    "precioUnitario": 0.0,
-    "precio": 0.0,
+    "costo": 2500.0,
+    "precioUnitario": 4250.0,
     "stock": 0,
     "minimo": 5
   },
@@ -74,8 +67,7 @@
     "nombre": "CARTULINA",
     "categoria": "Escolares y Librería",
     "costo": 536.0,
-    "precioUnitario": 375.2,
-    "precio": 911.2,
+    "precioUnitario": 911.2,
     "stock": 10,
     "minimo": 5
   },
@@ -84,8 +76,7 @@
     "nombre": "CINTA DE PAPEL 12MM X 50MTS",
     "categoria": "Escolares y Librería",
     "costo": 1747.0,
-    "precioUnitario": 1397.6,
-    "precio": 3144.6,
+    "precioUnitario": 2969.9,
     "stock": 10,
     "minimo": 5
   },
@@ -94,8 +85,7 @@
     "nombre": "CINTEC 24MM X 40MTS",
     "categoria": "Escolares y Librería",
     "costo": 700.0,
-    "precioUnitario": 560.0,
-    "precio": 1260.0,
+    "precioUnitario": 1190.0,
     "stock": 10,
     "minimo": 5
   },
@@ -104,8 +94,7 @@
     "nombre": "CINTEC 12MM X 30MTS",
     "categoria": "Escolares y Librería",
     "costo": 603.0,
-    "precioUnitario": 482.4,
-    "precio": 1085.4,
+    "precioUnitario": 1025.1,
     "stock": 10,
     "minimo": 5
   },
@@ -114,8 +103,7 @@
     "nombre": "COMPAS",
     "categoria": "Escolares y Librería",
     "costo": 1673.0,
-    "precioUnitario": 1171.1,
-    "precio": 2844.1,
+    "precioUnitario": 2844.1,
     "stock": 10,
     "minimo": 5
   },
@@ -124,8 +112,7 @@
     "nombre": "CORRECTOR",
     "categoria": "Escolares y Librería",
     "costo": 500.0,
-    "precioUnitario": 350.0,
-    "precio": 850.0,
+    "precioUnitario": 850.0,
     "stock": 10,
     "minimo": 5
   },
@@ -134,8 +121,7 @@
     "nombre": "CRAYONES X 12",
     "categoria": "Escolares y Librería",
     "costo": 1100.0,
-    "precioUnitario": 770.0,
-    "precio": 1870.0,
+    "precioUnitario": 1870.0,
     "stock": 10,
     "minimo": 5
   },
@@ -144,8 +130,7 @@
     "nombre": "CRAYONES JUMBO X 12",
     "categoria": "Escolares y Librería",
     "costo": 2175.0,
-    "precioUnitario": 1522.5,
-    "precio": 3697.5,
+    "precioUnitario": 3697.5,
     "stock": 10,
     "minimo": 5
   },
@@ -154,8 +139,7 @@
     "nombre": "CUADERNO A4 TAPA DURA AVON",
     "categoria": "Escolares y Librería",
     "costo": 5821.0,
-    "precioUnitario": 4074.7,
-    "precio": 9895.7,
+    "precioUnitario": 9895.7,
     "stock": 10,
     "minimo": 5
   },
@@ -164,8 +148,7 @@
     "nombre": "CUADERNO TAPA DURA X 42 O 50 HOJAS",
     "categoria": "Escolares y Librería",
     "costo": 2400.0,
-    "precioUnitario": 1680.0,
-    "precio": 4080.0,
+    "precioUnitario": 4080.0,
     "stock": 10,
     "minimo": 5
   },
@@ -174,8 +157,7 @@
     "nombre": "CUADERNO TAPA BLANDA X 48 HOJAS",
     "categoria": "Escolares y Librería",
     "costo": 1083.0,
-    "precioUnitario": 758.1,
-    "precio": 1841.1,
+    "precioUnitario": 1841.1,
     "stock": 10,
     "minimo": 5
   },
@@ -184,8 +166,7 @@
     "nombre": "CUADERNO ESPIRAL CHICO X 80 HOJAS",
     "categoria": "Escolares y Librería",
     "costo": 1395.0,
-    "precioUnitario": 976.5,
-    "precio": 2371.5,
+    "precioUnitario": 2371.5,
     "stock": 10,
     "minimo": 5
   },
@@ -194,8 +175,7 @@
     "nombre": "CUADERNO ESPIRAL A4 X 80 HOJAS AVON",
     "categoria": "Escolares y Librería",
     "costo": 3317.0,
-    "precioUnitario": 2321.9,
-    "precio": 5638.9,
+    "precioUnitario": 5638.9,
     "stock": 10,
     "minimo": 5
   },
@@ -204,8 +184,7 @@
     "nombre": "ESCOLAR RIVADAVIA X 48 HOJAS",
     "categoria": "Escolares y Librería",
     "costo": 3037.0,
-    "precioUnitario": 2125.9,
-    "precio": 5162.9,
+    "precioUnitario": 5162.9,
     "stock": 10,
     "minimo": 5
   },
@@ -214,8 +193,7 @@
     "nombre": "ESCUADRA 20CM X 60 Y 20CM X 45",
     "categoria": "Escolares y Librería",
     "costo": 700.0,
-    "precioUnitario": 490.0,
-    "precio": 1190.0,
+    "precioUnitario": 1190.0,
     "stock": 10,
     "minimo": 5
   },
@@ -224,8 +202,7 @@
     "nombre": "ETIQUETAS ESCOLARES X 8",
     "categoria": "Escolares y Librería",
     "costo": 445.0,
-    "precioUnitario": 311.5,
-    "precio": 756.5,
+    "precioUnitario": 756.5,
     "stock": 10,
     "minimo": 5
   },
@@ -234,8 +211,7 @@
     "nombre": "FIBRON K30 MOFFI",
     "categoria": "Escolares y Librería",
     "costo": 850.0,
-    "precioUnitario": 595.0,
-    "precio": 1445.0,
+    "precioUnitario": 1445.0,
     "stock": 10,
     "minimo": 5
   },
@@ -244,8 +220,7 @@
     "nombre": "FIBROS INDELEBLE MOFFI",
     "categoria": "Escolares y Librería",
     "costo": 850.0,
-    "precioUnitario": 595.0,
-    "precio": 1445.0,
+    "precioUnitario": 1445.0,
     "stock": 10,
     "minimo": 5
   },
@@ -254,8 +229,7 @@
     "nombre": "FIBRON PIZARRA MOFFI",
     "categoria": "Escolares y Librería",
     "costo": 1000.0,
-    "precioUnitario": 700.0,
-    "precio": 1700.0,
+    "precioUnitario": 1700.0,
     "stock": 10,
     "minimo": 5
   },
@@ -264,8 +238,7 @@
     "nombre": "FIBROS X 10 O X 12 MOFFI O SYNTEX",
     "categoria": "Escolares y Librería",
     "costo": 1800.0,
-    "precioUnitario": 1260.0,
-    "precio": 3060.0,
+    "precioUnitario": 3060.0,
     "stock": 10,
     "minimo": 5
   },
@@ -274,8 +247,7 @@
     "nombre": "FIBROS DE COLORES X 6 TRABI",
     "categoria": "Escolares y Librería",
     "costo": 2600.0,
-    "precioUnitario": 1820.0,
-    "precio": 4420.0,
+    "precioUnitario": 4420.0,
     "stock": 10,
     "minimo": 5
   },
@@ -284,8 +256,7 @@
     "nombre": "FOLIOS CHICOS X 10 UNIDADES",
     "categoria": "Escolares y Librería",
     "costo": 1100.0,
-    "precioUnitario": 770.0,
-    "precio": 1870.0,
+    "precioUnitario": 1870.0,
     "stock": 10,
     "minimo": 5
   },
@@ -294,8 +265,7 @@
     "nombre": "FOLIOS A4 X 10 UNIDADES",
     "categoria": "Escolares y Librería",
     "costo": 1300.0,
-    "precioUnitario": 910.0,
-    "precio": 2210.0,
+    "precioUnitario": 2210.0,
     "stock": 10,
     "minimo": 5
   },
@@ -304,8 +274,7 @@
     "nombre": "FOLIO OFICIO X 10 UNIDADES",
     "categoria": "Escolares y Librería",
     "costo": 1500.0,
-    "precioUnitario": 1050.0,
-    "precio": 2550.0,
+    "precioUnitario": 2550.0,
     "stock": 10,
     "minimo": 5
   },
@@ -314,8 +283,7 @@
     "nombre": "GOMA MAPED DUST FREE",
     "categoria": "Escolares y Librería",
     "costo": 468.0,
-    "precioUnitario": 327.6,
-    "precio": 795.6,
+    "precioUnitario": 795.6,
     "stock": 10,
     "minimo": 5
   },
@@ -324,8 +292,7 @@
     "nombre": "GOMA DOS BANDERAS",
     "categoria": "Escolares y Librería",
     "costo": 300.0,
-    "precioUnitario": 210.0,
-    "precio": 510.0,
+    "precioUnitario": 510.0,
     "stock": 10,
     "minimo": 5
   },
@@ -334,8 +301,7 @@
     "nombre": "GOMA NEGRA MOFFI",
     "categoria": "Escolares y Librería",
     "costo": 300.0,
-    "precioUnitario": 210.0,
-    "precio": 510.0,
+    "precioUnitario": 510.0,
     "stock": 10,
     "minimo": 5
   },
@@ -344,8 +310,7 @@
     "nombre": "GOMA FORMAS DIVERSIÓN",
     "categoria": "Escolares y Librería",
     "costo": 400.0,
-    "precioUnitario": 280.0,
-    "precio": 680.0,
+    "precioUnitario": 680.0,
     "stock": 10,
     "minimo": 5
   },
@@ -354,8 +319,7 @@
     "nombre": "GOMA DE LAPIZ Y LAPICERA",
     "categoria": "Escolares y Librería",
     "costo": 300.0,
-    "precioUnitario": 210.0,
-    "precio": 510.0,
+    "precioUnitario": 510.0,
     "stock": 10,
     "minimo": 5
   },
@@ -364,8 +328,7 @@
     "nombre": "ISOPOR CUADRADO Y REDONDO",
     "categoria": "Escolares y Librería",
     "costo": 700.0,
-    "precioUnitario": 490.0,
-    "precio": 1190.0,
+    "precioUnitario": 1190.0,
     "stock": 10,
     "minimo": 5
   },
@@ -374,8 +337,7 @@
     "nombre": "LAPICERA BIC NEGRA, AZUL Y ROJO",
     "categoria": "Escolares y Librería",
     "costo": 500.0,
-    "precioUnitario": 350.0,
-    "precio": 850.0,
+    "precioUnitario": 850.0,
     "stock": 10,
     "minimo": 5
   },
@@ -384,8 +346,7 @@
     "nombre": "LAPICERA MOFFI AZUL, NEGRO Y ROJO",
     "categoria": "Escolares y Librería",
     "costo": 300.0,
-    "precioUnitario": 210.0,
-    "precio": 510.0,
+    "precioUnitario": 510.0,
     "stock": 10,
     "minimo": 5
   },
@@ -394,8 +355,7 @@
     "nombre": "LAPICERA BORRABLE MOFFI",
     "categoria": "Escolares y Librería",
     "costo": 1300.0,
-    "precioUnitario": 910.0,
-    "precio": 2210.0,
+    "precioUnitario": 2210.0,
     "stock": 10,
     "minimo": 5
   },
@@ -404,8 +364,7 @@
     "nombre": "LAPIZ NEGRO MAPED O BIC",
     "categoria": "Escolares y Librería",
     "costo": 350.0,
-    "precioUnitario": 245.0,
-    "precio": 595.0,
+    "precioUnitario": 595.0,
     "stock": 10,
     "minimo": 5
   },
@@ -414,8 +373,7 @@
     "nombre": "LAPIZ NEGRO MOFFI CON GOMA",
     "categoria": "Escolares y Librería",
     "costo": 250.0,
-    "precioUnitario": 175.0,
-    "precio": 425.0,
+    "precioUnitario": 425.0,
     "stock": 10,
     "minimo": 5
   },
@@ -424,8 +382,7 @@
     "nombre": "LAPICES X 12 MOFFI O SYNTEX LARGO",
     "categoria": "Escolares y Librería",
     "costo": 1800.0,
-    "precioUnitario": 1260.0,
-    "precio": 3060.0,
+    "precioUnitario": 3060.0,
     "stock": 10,
     "minimo": 5
   },
@@ -434,8 +391,7 @@
     "nombre": "LAPICES X 12 FABER CASTELL",
     "categoria": "Escolares y Librería",
     "costo": 3900.0,
-    "precioUnitario": 2730.0,
-    "precio": 6630.0,
+    "precioUnitario": 6630.0,
     "stock": 10,
     "minimo": 5
   },
@@ -444,8 +400,7 @@
     "nombre": "LAPICES X 12 MAPED",
     "categoria": "Escolares y Librería",
     "costo": 3600.0,
-    "precioUnitario": 2520.0,
-    "precio": 6120.0,
+    "precioUnitario": 6120.0,
     "stock": 10,
     "minimo": 5
   },
@@ -454,8 +409,7 @@
     "nombre": "LIQUID PAPER TIPO LAPICERA",
     "categoria": "Escolares y Librería",
     "costo": 1200.0,
-    "precioUnitario": 840.0,
-    "precio": 2040.0,
+    "precioUnitario": 2040.0,
     "stock": 10,
     "minimo": 5
   },
@@ -464,8 +418,7 @@
     "nombre": "MAPAS X 2 UNIDADES",
     "categoria": "Escolares y Librería",
     "costo": 200.0,
-    "precioUnitario": 140.0,
-    "precio": 340.0,
+    "precioUnitario": 340.0,
     "stock": 10,
     "minimo": 5
   },
@@ -474,8 +427,7 @@
     "nombre": "MICROFIBRA INDELEBLE SYNTEX O MOFFI",
     "categoria": "Escolares y Librería",
     "costo": 800.0,
-    "precioUnitario": 560.0,
-    "precio": 1360.0,
+    "precioUnitario": 1360.0,
     "stock": 10,
     "minimo": 5
   },
@@ -484,8 +436,7 @@
     "nombre": "MICROFIBRA NEGRA MAPED",
     "categoria": "Escolares y Librería",
     "costo": 1300.0,
-    "precioUnitario": 910.0,
-    "precio": 2210.0,
+    "precioUnitario": 2210.0,
     "stock": 10,
     "minimo": 5
   },
@@ -494,8 +445,7 @@
     "nombre": "MINAS DE LAPIZ CON O SIN LAPIZ",
     "categoria": "Escolares y Librería",
     "costo": 600.0,
-    "precioUnitario": 420.0,
-    "precio": 1020.0,
+    "precioUnitario": 1020.0,
     "stock": 10,
     "minimo": 5
   },
@@ -504,8 +454,7 @@
     "nombre": "OJALILLOS X 10",
     "categoria": "Escolares y Librería",
     "costo": 200.0,
-    "precioUnitario": 140.0,
-    "precio": 340.0,
+    "precioUnitario": 340.0,
     "stock": 10,
     "minimo": 5
   },
@@ -514,8 +463,7 @@
     "nombre": "PALITOS DE HELADO COLOR O COMUN X 25",
     "categoria": "Escolares y Librería",
     "costo": 600.0,
-    "precioUnitario": 420.0,
-    "precio": 1020.0,
+    "precioUnitario": 1020.0,
     "stock": 10,
     "minimo": 5
   },
@@ -524,8 +472,7 @@
     "nombre": "PAPEL AFICHE Y CREPE",
     "categoria": "Escolares y Librería",
     "costo": 600.0,
-    "precioUnitario": 420.0,
-    "precio": 1020.0,
+    "precioUnitario": 1020.0,
     "stock": 10,
     "minimo": 5
   },
@@ -534,8 +481,7 @@
     "nombre": "PAPEL ARANA Y GLACÉ",
     "categoria": "Escolares y Librería",
     "costo": 300.0,
-    "precioUnitario": 210.0,
-    "precio": 510.0,
+    "precioUnitario": 510.0,
     "stock": 10,
     "minimo": 5
   },
@@ -544,8 +490,7 @@
     "nombre": "PAPEL BARRILETE Y CONTACT X METRO",
     "categoria": "Escolares y Librería",
     "costo": 1300.0,
-    "precioUnitario": 910.0,
-    "precio": 2210.0,
+    "precioUnitario": 2210.0,
     "stock": 10,
     "minimo": 5
   },
@@ -554,8 +499,7 @@
     "nombre": "PAPEL ESCANOGRAMA",
     "categoria": "Escolares y Librería",
     "costo": 500.0,
-    "precioUnitario": 350.0,
-    "precio": 850.0,
+    "precioUnitario": 850.0,
     "stock": 10,
     "minimo": 5
   },
@@ -564,8 +508,7 @@
     "nombre": "PAPEL MADERA X METRO",
     "categoria": "Escolares y Librería",
     "costo": 800.0,
-    "precioUnitario": 560.0,
-    "precio": 1360.0,
+    "precioUnitario": 1360.0,
     "stock": 10,
     "minimo": 5
   },
@@ -574,8 +517,7 @@
     "nombre": "PAPEL MANTECA",
     "categoria": "Escolares y Librería",
     "costo": 400.0,
-    "precioUnitario": 280.0,
-    "precio": 680.0,
+    "precioUnitario": 680.0,
     "stock": 10,
     "minimo": 5
   },
@@ -584,8 +526,7 @@
     "nombre": "PAPEL PLANIFICACION X 1",
     "categoria": "Escolares y Librería",
     "costo": 300.0,
-    "precioUnitario": 210.0,
-    "precio": 510.0,
+    "precioUnitario": 510.0,
     "stock": 10,
     "minimo": 5
   },
@@ -594,8 +535,7 @@
     "nombre": "PINCELES X 3 UNIDADES",
     "categoria": "Escolares y Librería",
     "costo": 1200.0,
-    "precioUnitario": 840.0,
-    "precio": 2040.0,
+    "precioUnitario": 2040.0,
     "stock": 10,
     "minimo": 5
   },
@@ -604,8 +544,7 @@
     "nombre": "PINAMOCEL 30ML",
     "categoria": "Escolares y Librería",
     "costo": 500.0,
-    "precioUnitario": 350.0,
-    "precio": 850.0,
+    "precioUnitario": 850.0,
     "stock": 10,
     "minimo": 5
   },
@@ -614,8 +553,7 @@
     "nombre": "PLASTILINA X 6",
     "categoria": "Escolares y Librería",
     "costo": 1000.0,
-    "precioUnitario": 700.0,
-    "precio": 1700.0,
+    "precioUnitario": 1700.0,
     "stock": 10,
     "minimo": 5
   },
@@ -624,8 +562,7 @@
     "nombre": "PORCELANA FRIA 250G Y REGISTRO DOCENTE",
     "categoria": "Escolares y Librería",
     "costo": 2200.0,
-    "precioUnitario": 1540.0,
-    "precio": 3740.0,
+    "precioUnitario": 3740.0,
     "stock": 10,
     "minimo": 5
   },
@@ -634,8 +571,7 @@
     "nombre": "REGLA 15CM O 20CM",
     "categoria": "Escolares y Librería",
     "costo": 400.0,
-    "precioUnitario": 280.0,
-    "precio": 680.0,
+    "precioUnitario": 680.0,
     "stock": 10,
     "minimo": 5
   },
@@ -644,8 +580,7 @@
     "nombre": "REGLA 30CM FLEXIBLE",
     "categoria": "Escolares y Librería",
     "costo": 700.0,
-    "precioUnitario": 490.0,
-    "precio": 1190.0,
+    "precioUnitario": 1190.0,
     "stock": 10,
     "minimo": 5
   },
@@ -654,8 +589,7 @@
     "nombre": "REPUESTO DE HOJAS RIVADAVIA X 96",
     "categoria": "Escolares y Librería",
     "costo": 4500.0,
-    "precioUnitario": 3150.0,
-    "precio": 7650.0,
+    "precioUnitario": 7650.0,
     "stock": 10,
     "minimo": 5
   },
@@ -664,8 +598,7 @@
     "nombre": "REPUESTO DE HOJAS TEMPERLEY X 96",
     "categoria": "Escolares y Librería",
     "costo": 2500.0,
-    "precioUnitario": 1750.0,
-    "precio": 4250.0,
+    "precioUnitario": 4250.0,
     "stock": 10,
     "minimo": 5
   },
@@ -674,8 +607,7 @@
     "nombre": "REPUESTO DE DIBUJO BLANCO Y COLOR",
     "categoria": "Escolares y Librería",
     "costo": 1200.0,
-    "precioUnitario": 840.0,
-    "precio": 2040.0,
+    "precioUnitario": 2040.0,
     "stock": 10,
     "minimo": 5
   },
@@ -684,8 +616,7 @@
     "nombre": "RESALTADOR INDIVIDUAL TRABI O MAPED",
     "categoria": "Escolares y Librería",
     "costo": 900.0,
-    "precioUnitario": 630.0,
-    "precio": 1530.0,
+    "precioUnitario": 1530.0,
     "stock": 10,
     "minimo": 5
   },
@@ -694,8 +625,7 @@
     "nombre": "RESALTADORES X 4 TRABI",
     "categoria": "Escolares y Librería",
     "costo": 3400.0,
-    "precioUnitario": 2380.0,
-    "precio": 5780.0,
+    "precioUnitario": 5780.0,
     "stock": 10,
     "minimo": 5
   },
@@ -704,8 +634,7 @@
     "nombre": "SACAPUNTAS METAL O PLASTICO COMUN",
     "categoria": "Escolares y Librería",
     "costo": 300.0,
-    "precioUnitario": 210.0,
-    "precio": 510.0,
+    "precioUnitario": 510.0,
     "stock": 10,
     "minimo": 5
   },
@@ -714,8 +643,7 @@
     "nombre": "SACAPUNTAS CON DEPOSITO MAPED",
     "categoria": "Escolares y Librería",
     "costo": 1100.0,
-    "precioUnitario": 770.0,
-    "precio": 1870.0,
+    "precioUnitario": 1870.0,
     "stock": 10,
     "minimo": 5
   }
