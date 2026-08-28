@@ -32,7 +32,7 @@
     .price-box { display: flex; flex-direction: column; gap: 2px; }
     .price-box label { font-size: 0.72rem; font-weight: bold; color: #555; text-transform: uppercase; }
     .price-box input { width: 100%; padding: 4px 6px; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85rem; font-weight: 600; }
-    .price-box.mayorista input { border-color: #42a5f5; background-color: #e3f2fd; color: #0d47a1; }
+    .price-box.ganancia input { border-color: #42a5f5; background-color: #e3f2fd; color: #0d47a1; }
     .price-box.venta input { border-color: #26a69a; background-color: #e8f5e9; color: #1b5e20; }
 
     .card-controls { display: flex; align-items: center; gap: 8px; }
@@ -104,14 +104,29 @@
       }
     }
 
-    function actualizarCampo(sku, campo, valorStr) {
+    function calcularValores(sku, campoModificado, valorStr) {
+      const prod = productos.find(p => String(p.sku) === String(sku));
+      if (!prod) return;
+
       const valor = parseFloat(valorStr.replace(',', '.'));
       if (isNaN(valor) || valor < 0) return;
 
-      const prod = productos.find(p => String(p.sku) === String(sku));
-      if (prod) {
-        prod[campo] = valor;
+      prod[campoModificado] = valor;
+
+      const costo = Number(prod.costo) || 0;
+      const ganancia = Number(prod.porcentajeGanancia) || 0;
+
+      // Recargo directo (Opción A)
+      if (campoModificado === 'costo' || campoModificado === 'porcentajeGanancia') {
+        prod.precio = Math.round(costo * (1 + (ganancia / 100)));
+      } else if (campoModificado === 'precio') {
+        if (costo > 0) {
+          // Si modifica manualmente el precio de venta, recalcula el porcentaje de ganancia
+          prod.porcentajeGanancia = parseFloat((((valor - costo) / costo) * 100).toFixed(2));
+        }
       }
+
+      render();
     }
 
     function toggleFaltantes() {
@@ -161,15 +176,15 @@
             <div class="price-grid">
               <div class="price-box">
                 <label>Costo</label>
-                <input type="text" value="${p.costo ?? ''}" onchange="actualizarCampo('${p.sku}', 'costo', this.value)">
+                <input type="text" value="${p.costo ?? ''}" onchange="calcularValores('${p.sku}', 'costo', this.value)">
               </div>
-              <div class="price-box mayorista">
-                <label>Mayorista</label>
-                <input type="text" value="${p.precioMayorista ?? ''}" onchange="actualizarCampo('${p.sku}', 'precioMayorista', this.value)">
+              <div class="price-box ganancia">
+                <label>% Ganancia</label>
+                <input type="text" value="${p.porcentajeGanancia ?? ''}" onchange="calcularValores('${p.sku}', 'porcentajeGanancia', this.value)">
               </div>
               <div class="price-box venta">
                 <label>P. Venta</label>
-                <input type="text" value="${p.precio ?? ''}" onchange="actualizarCampo('${p.sku}', 'precio', this.value)">
+                <input type="text" value="${p.precio ?? ''}" onchange="calcularValores('${p.sku}', 'precio', this.value)">
               </div>
             </div>
           </div>
