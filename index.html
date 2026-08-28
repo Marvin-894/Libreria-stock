@@ -28,9 +28,9 @@
     .card-category { font-size: 0.75rem; color: #78909c; text-transform: uppercase; font-weight: bold; }
     .card-title { font-size: 1.05rem; font-weight: bold; color: #2c3e50; margin: 4px 0 8px 0; }
     
-    .price-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); gap: 8px; margin-top: 8px; }
+    .price-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 8px; }
     .price-box { display: flex; flex-direction: column; gap: 2px; }
-    .price-box label { font-size: 0.75rem; font-weight: bold; color: #555; }
+    .price-box label { font-size: 0.72rem; font-weight: bold; color: #555; text-transform: uppercase; }
     .price-box input { width: 100%; padding: 4px 6px; border: 1px solid #ccc; border-radius: 4px; font-size: 0.85rem; font-weight: 600; }
     .price-box.mayorista input { border-color: #42a5f5; background-color: #e3f2fd; color: #0d47a1; }
     .price-box.venta input { border-color: #26a69a; background-color: #e8f5e9; color: #1b5e20; }
@@ -168,7 +168,7 @@
                 <input type="text" value="${p.precioMayorista ?? ''}" onchange="actualizarCampo('${p.sku}', 'precioMayorista', this.value)">
               </div>
               <div class="price-box venta">
-                <label>Venta</label>
+                <label>P. Venta</label>
                 <input type="text" value="${p.precio ?? ''}" onchange="actualizarCampo('${p.sku}', 'precio', this.value)">
               </div>
             </div>
@@ -184,7 +184,6 @@
       });
     }
 
-    // Inicializar la carga de datos al abrir la página
     cargarStock();
   </script>
 </body>
